@@ -136,7 +136,7 @@ void bst::insert(int val)
 void bst::insert()
 {
      int Val;
-     cout<<"\nEnter value you want to insert : ";
+     cout<<"\n Please Enter value you want to insert : ";
      cin>>Val;
       
      insert(Val);
