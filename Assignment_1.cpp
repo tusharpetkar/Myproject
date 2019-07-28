@@ -362,7 +362,7 @@ int main()
 
        do  
         {
-            cout<<"____________________BST OPERATIONS_____________________\n\n";
+            cout<<"confirming GIthub methods here\n\n";
             bst b; 
             b.create();   
            do
