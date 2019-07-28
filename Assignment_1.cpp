@@ -140,7 +140,7 @@ void bst::insert()
      cin>>Val;
       
      insert(Val);
-     cout<<"\nTree after insertion (in-order traversal) : ";
+     cout<<"\n inorder traversal  : ";
      in_order();
 }
 
