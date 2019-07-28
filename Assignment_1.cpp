@@ -112,7 +112,7 @@ void bst::insert(int val)
                                              flag=2;
                                          }
                                          else {
-                                             cout<<"\nData Already Present..!!";
+                                             cout<<"Data Already Present..!!";
                                              flag=0;
                                              break;
                                          }
